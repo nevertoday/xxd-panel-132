@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 132｜Pen-and-Wash Travel: redraws the key building, street or scene of a photo as a small urban-sketch pen-and-wash illustration, with black pen or fineliner lines that wobble naturally, slightly flattened and simplified perspective, and a few flat washes in a warm limited palette of brick red, orange-brown, ochre, black and white with tiny red or yellow accents, placed like a postage stamp in wide whitespace on visible paper grain, with small, bookish poetic text in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-132 or asks for urban sketch, line-and-wash, ink-and-watercolour travel or architecture illustration from a photo.",
+  "short_description": "钢笔淡彩旅行志：用抖动的钢笔线和暖色淡彩，把照片画成邮戳大小的城市速写",
+  "zh-CN": {
+    "name": "钢笔淡彩旅行志",
+    "tagline": "用带手抖的钢笔线和几笔暖色淡彩，把照片画成一张邮戳大小的城市速写。",
+    "look": "照片里的建筑、街景、人物或车辆被黑色钢笔、针管笔的墨线勾出来，线条有自然的手抖和个人笔触，透视和比例略微压扁、概括，不追求精确。上色只用少量淡彩和平涂，限定在砖红、橙褐、赭石、黑、白这类暖色，偶尔一点红或黄。主体像邮戳一样小，落在带明显纸张颗粒的大片留白里；文字是几行小号、带书卷气的诗意排字，语种不限。",
+    "traits": [
+      "邮戳级主体",
+      "钢笔抖线",
+      "暖色淡彩",
+      "城市速写",
+      "纸纹",
+      "诗意书籍排字"
+    ],
+    "good": [
+      "建筑和街景：老街的一排房子、教堂、车站、街角咖啡馆",
+      "旅途中有地方感的照片：电车、桥、市场入口、小广场",
+      "想做成旅行手账、明信片或复古城市海报的照片"
+    ],
+    "poor": [
+      "需要精确结构的建筑图纸、产品图或证件照",
+      "以人像表情为主的近距离照片，主体会画得很小",
+      "想要水彩铺满整页、写实精细、卡通或 3D 效果"
+    ]
+  },
+  "en": {
+    "name": "Pen-and-Wash Travel",
+    "tagline": "Sketches your photo with wobbly pen lines and a few warm washes, as a postage-stamp-sized urban sketch.",
+    "look": "Buildings, streets, people or vehicles from the photo are drawn in black pen or fineliner, with a natural hand wobble and personal strokes, and perspective and proportions slightly flattened and simplified rather than exact. Colour is limited to a few light washes and flat fills in warm tones such as brick red, orange-brown, ochre, black and white, with the occasional touch of red or yellow. The subject is as small as a postage stamp, set in wide empty space with clear paper grain, and the text is a few lines of small, bookish poetic type in any language.",
+    "traits": [
+      "Stamp-sized subject",
+      "Wobbly pen line",
+      "Warm light washes",
+      "Urban sketch",
+      "Paper grain",
+      "Poetic book typography"
+    ],
+    "good": [
+      "Buildings and streets: a row of old houses, a church, a station, a corner café",
+      "Travel photos with a sense of place: a tram, a bridge, a market entrance, a small square",
+      "Photos for a travel journal, postcard or vintage city poster"
+    ],
+    "poor": [
+      "Architectural drawings, product shots or ID photos that need exact structure",
+      "Close-up, expression-led portraits, since the subject is drawn very small",
+      "Requests for watercolour washed across the whole page, highly detailed realism, cartoon or 3D"
+    ]
+  },
+  "ja": {
+    "name": "ペン淡彩の旅",
+    "tagline": "手の揺れが残るペン線と暖色の淡彩で、写真を切手ほどの小さな街角スケッチにします。",
+    "look": "写真の建物、街並み、人物、乗り物を、黒のペンやミリペンの線で描きます。線には自然な手の揺れと描き手の癖があり、遠近や比率は少し平たく簡略化して、正確さは求めません。色は少しの淡彩と平塗りだけで、れんが色、橙茶、黄土、黒、白といった暖色に絞り、ときどき赤や黄を一点だけ。主役は切手ほどの小ささで、紙の粒子がよく見える広い余白に置かれます。文字は本のような趣の小さな詩的な組版が数行。言語は自由です。",
+    "traits": [
+      "切手大の主役",
+      "揺れるペン線",
+      "暖色の淡彩",
+      "アーバンスケッチ",
+      "紙の粒子",
+      "詩的なブックタイポグラフィ"
+    ],
+    "good": [
+      "建物や街並み：古い通りの家並み、教会、駅、街角のカフェ",
+      "土地の雰囲気がある旅の写真：路面電車、橋、市場の入口、小さな広場",
+      "旅手帳、ポストカード、レトロな街のポスターにしたい写真"
+    ],
+    "poor": [
+      "正確な構造が必要な建築図面、商品写真、証明写真",
+      "表情が主役の人物のアップ（主役はとても小さく描かれます）",
+      "水彩で画面全体を染める、緻密な写実、アニメ調、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "펜 담채 여행",
+    "tagline": "손떨림이 남은 펜 선과 따뜻한 담채 몇 번으로 사진을 우표만 한 도시 스케치로 그립니다.",
+    "look": "사진 속 건물, 거리, 사람, 탈것을 검은 펜이나 피그먼트 라이너 선으로 그립니다. 선에는 자연스러운 손떨림과 개인의 필치가 남고, 원근과 비율은 정확하기보다 살짝 납작하고 간결하게 정리됩니다. 색은 옅은 담채와 평칠 몇 번뿐이며 벽돌색, 주황빛 갈색, 황토, 검정, 흰색 같은 따뜻한 색으로 한정하고 가끔 빨강이나 노랑을 한 점 더합니다. 주인공은 우표만큼 작게, 종이 결이 뚜렷한 넓은 여백에 놓이고, 글은 책 같은 분위기의 작은 시적 조판 몇 줄이며 언어는 자유입니다.",
+    "traits": [
+      "우표 크기의 주인공",
+      "떨리는 펜 선",
+      "따뜻한 담채",
+      "어반 스케치",
+      "종이 결",
+      "시적인 책 타이포그래피"
+    ],
+    "good": [
+      "건물과 거리: 옛 골목의 집들, 성당, 역, 모퉁이 카페",
+      "장소의 분위기가 담긴 여행 사진: 트램, 다리, 시장 입구, 작은 광장",
+      "여행 다이어리, 엽서, 레트로 도시 포스터로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "정확한 구조가 필요한 건축 도면, 제품 사진, 증명사진",
+      "표정이 중심인 근접 인물 사진(주인공이 아주 작게 그려집니다)",
+      "수채로 화면 전체를 물들이거나 정밀한 사실화, 만화풍, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "رحلة بالقلم والغسلات",
+    "tagline": "يرسم صورتك بخطوط قلم مرتعشة وبضع غسلات لونية دافئة، كرسم مدينة سريع بحجم طابع بريدي.",
+    "look": "تُرسم المباني والشوارع والأشخاص والمركبات في الصورة بقلم حبر أسود أو قلم رفيع، مع ارتعاش طبيعي لليد وضربات شخصية، ويُسطَّح المنظور والنِّسب ويُبسَّطان قليلاً بدل الدقة الصارمة. يقتصر التلوين على بضع غسلات خفيفة ومساحات مسطّحة بدرجات دافئة كالأحمر الطوبي والبني البرتقالي والمغرة والأسود والأبيض، مع لمسة عابرة من الأحمر أو الأصفر. يكون العنصر صغيراً بحجم طابع بريدي، موضوعاً في فراغ واسع تظهر فيه حبيبات الورق بوضوح، والنص بضعة أسطر شعرية صغيرة بطابع الكتب وبأي لغة.",
+    "traits": [
+      "عنصر بحجم طابع",
+      "خط قلم مرتعش",
+      "غسلات لونية دافئة",
+      "رسم المدن السريع",
+      "حبيبات الورق",
+      "طباعة كتب شاعرية"
+    ],
+    "good": [
+      "مبانٍ وشوارع: صف من البيوت القديمة، كنيسة، محطة، مقهى على ناصية",
+      "صور سفر فيها روح المكان: ترام، جسر، مدخل سوق، ساحة صغيرة",
+      "صور لدفتر سفر أو بطاقة بريدية أو ملصق مدينة بطابع قديم"
+    ],
+    "poor": [
+      "رسوم معمارية أو صور منتجات أو صور هوية تحتاج إلى بنية دقيقة",
+      "صور شخصية مقرّبة قائمة على التعبير، لأن العنصر يُرسم صغيراً جداً",
+      "طلب ألوان مائية تغمر الصفحة كلها أو واقعية دقيقة أو مظهر كرتوني أو ثلاثي الأبعاد"
+    ]
+  }
+}
